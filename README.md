@@ -1,6 +1,9 @@
 CoWFC Installer
 ======
 
+# ⚠️ THIS PROJECT CAN HAVE PROBLEMS ⚠️
+## This project are only for running on new version of Ubuntu not for having new update on the project, i don't have the skills for making security update on the project.
+
 This script installs the CoWFC front-end and back-end from https://github.com/EnergyCube/CoWFC
 
 ✅ Support Ubuntu 14.04 & 16.04 (& 16.04 AWS)
